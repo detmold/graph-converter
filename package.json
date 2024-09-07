@@ -1,0 +1,19 @@
+{
+  "name": "konwerter-graficzny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/detmold/graph-converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/detmold/graph-converter/issues"
+  },
+  "homepage": "https://github.com/detmold/graph-converter#readme"
+}
